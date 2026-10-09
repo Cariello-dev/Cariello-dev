@@ -1,3 +1,6 @@
+
+  <img src="image.jpg" alt="Cariello-dev — Software Engineering" width="100%">
+</div>
 # Hi, I'm Carlos Urieles
 
 **Software Engineering Student | Backend Development | Software Architecture**
